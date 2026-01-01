@@ -12,4 +12,5 @@ My name is **Vadim**, I'm 16 years old. I program so-so, but I'm trying to impro
 
 ## Fun facts about me
 - I love reading and collecting **manga 📚🌸** (fullmetal alchemist, GLT, Made in Abyss)
-- I also like to watch **anime 📺🌸**
+- I also like to watch **anime 📺🌸** (S;G, Hellsing, Monogatari)
+- I like to collect **game consoles 🕹️** (Nintendo, Xbox, Ps, Sega)

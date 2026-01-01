@@ -7,3 +7,7 @@ My name is **Vadim**, I'm 16 years old. I program so-so, but I'm trying to impro
 - **[Blender](https://www.blender.org "Download Blender")** (For 3D modeling and printing)
 - **[Krita](https://krita.org "Download Krita")** (For drawing)
 - **[Godot](https://godotengine.org "Download Godot")** (For developing small games)
+- **[InkScape](https://inkscape.org "Download InkScape")** (For drawing in Vector)
+- **[VScode](https://code.visualstudio.com "Download VScode")** (When you need to write more code)
+
+## Fun facts about me

@@ -2,4 +2,4 @@
 
 # Hello everyone👋
 
-My name is Vadim, I'm 16 years old. I'm terrible at coding, but I'm trying to improve my skills. Most of all, I want to develop my own little indie game. I also made my own [Linux rices for hyprland](https://github.com/vadimdz/Hyprland_My_Rices "My rices"). That's all I can tell you about myself in this area.
+My name is **Vadim**, I'm 16 years old. I'm terrible at coding, but I'm trying to improve my skills. Most of all, I want to develop my own little indie game. I also made my own [Linux rices for hyprland](https://github.com/vadimdz/Hyprland_My_Rices "My rices"). That's all I can tell you about myself in this area.

@@ -1,1 +1,4 @@
+# Hello Everyone
+
+My name is **Vadim**, I'm 16 years old. I program so-so, but I'm trying to improve my skills in this area. In my free time, I work on [Linux rices](https://github.com/vadimdz/Hyprland_My_Rices "My Rices") and want to develop my own small indie game. Here I will post some game elements or new Linux customizations. In the future, I would like to try to create a modification for Blender.
 

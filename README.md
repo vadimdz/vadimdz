@@ -11,3 +11,5 @@ My name is **Vadim**, I'm 16 years old. I program so-so, but I'm trying to impro
 - **[VScode ⌨️](https://code.visualstudio.com "Download VScode")** (When you need to write more code)
 
 ## Fun facts about me
+- I love reading and collecting **manga 📚🌸** (fullmetal alchemist, GLT, Made in Abyss)
+- I also like to watch **anime 📺🌸**
